@@ -2,3 +2,4 @@
 gpg-key-commit-test
 test
 Okay
+verified signature
